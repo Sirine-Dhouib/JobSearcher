@@ -1,0 +1,1 @@
+<?php /**PATH D:\Downloads\XAMPP\Installation\htdocs\Job Searcher\resources\views/frontend/partials/testimonial.blade.php ENDPATH**/ ?>
